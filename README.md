@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayKarhade
-- 👀 I’m interested in Visual Computing and Robotics.
-- 🌱 I’m currently an MSR Student @ the Robotics Institute @ CMU. 
+- 👀 I work at the intersection of Perception and Robotics.
+- 🌱 I’m currently a PhD Student @ the Robotics Institute @ CMU. 
 - 💞️ I’m always open to possible collaborations in the above areas. Reach out to me!
 - 📫 Drop me an e-mail at jkarhade@andrew.cmu.edu
 
